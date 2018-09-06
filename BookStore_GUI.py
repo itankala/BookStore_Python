@@ -1,4 +1,4 @@
-import newdb as n
+import BookStore_Database as n
 def insert():
     w=[e1.get(),e2.get(),e3.get(),e4.get()]
     l.insert(END,w)
